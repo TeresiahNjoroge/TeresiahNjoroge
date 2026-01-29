@@ -1,8 +1,9 @@
-# 👋 Hi, I’m Teresiah Njoroge
+# Hi, I’m Teresiah Njoroge
 
-***💡 Data Enthusiast | Data Engineering & Analytics***  
-I enjoy transforming raw data into insights and building pipelines that scale.  
-- 👯 I’m looking to collaborate on Python & SQL projects  
+***💡 Operations Data Analyst | SQL | Python | Power BI | Supply Chain Analytics***  
+I have 6+ years of supply chain and logistics operations experience, 
+now leveraging data analysis to solve operational challenges.  
+- 👯 Let's connect if you're solving operational challenges with data!  
 - ⚡ Fun fact: Always learning 🚀  
 
 ---
