@@ -1,22 +1,18 @@
 # Hi, I'm Teresiah Njoroge
 
-### 🔬 Data Scientist | Machine Learning | Data Analysis
-I transform raw data into actionable insights using Python, SQL, and advanced statistical analysis. With 6+ years of operations and logistics experience, I bring deep domain knowledge to every data science project.
+***💡 Operations Data Analyst | SQL | Python | Power BI | Supply Chain Analytics***
+I have 6+ years of supply chain and logistics operations experience, now leveraging data analysis to solve operational challenges.
 
-- 🎯 I'm passionate about building predictive models and uncovering patterns that drive business decisions
-- 📚 Currently exploring: Machine Learning, Time Series Forecasting, Statistical Modeling
-- 💡 Fun fact: I love solving complex operational challenges through data science
+- 👯 Let's connect if you're solving operational challenges with data!
+- ⚡ Fun fact: Always learning 🚀
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 
-| **Machine Learning & Statistics** | **Data Visualization** | **Data Engineering** |
-|:---:|:---:|:---:|
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) | ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) |
-| ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) | ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) |
-| ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) | ![Matplotlib](https://img.shields.io/badge/Matplotlib-003366?style=for-the-badge) | ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) |
-| ![Statsmodels](https://img.shields.io/badge/Statsmodels-336791?style=for-the-badge) | ![Seaborn](https://img.shields.io/badge/Seaborn-006B3F?style=for-the-badge) | ![Jupyter](https://img.shields.io/badge/Jupyter-F37726?style=for-the-badge&logo=jupyter&logoColor=white) |
+| **Languages & Querying** | **Visualization & BI** | **Data Engineering (Still learning)** |
+|---------------------------|-------------------------|---------------------------------------|
+| ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Matplotlib](https://img.shields.io/badge/Matplotlib-005571?style=for-the-badge&logo=plotly&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-319795?style=for-the-badge&logo=python&logoColor=white) | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) ![Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white) ![Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
 
 ---
 
@@ -24,11 +20,21 @@ I transform raw data into actionable insights using Python, SQL, and advanced st
 
 ![Teresiah's GitHub stats](https://github-readme-stats.vercel.app/api?username=TeresiahNjoroge&show_icons=true&theme=radical)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TeresiahNjoroge&layout=compact&theme=tokyonight)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=TeresiahNjoroge&theme=dark)](https://git.io/streak-stats)
+
 ---
 
-## 🔗 Let's Connect
-📧 **Email:** bchrisphine@gmail.com  
-💼 **LinkedIn:** [teresiah-njoroge](https://www.linkedin.com/in/teresiah-njoroge)  
-🌍 **Location:** Nairobi, Kenya
+## 📌 Featured Projects
 
-**Open to collaborations on ML projects, data analysis, and data science challenges!**
+- 🌍 [**Climate Change Data Analysis**]() – SQL + Power BI dashboards
+
+---
+
+## 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/teresiah-njoroge/)
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) [terryharrison001@gmail.com](mailto:terryharrison001@gmail.com)
+
+⭐️ From [TeresiahNjoroge](https://github.com/TeresiahNjoroge)
