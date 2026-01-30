@@ -4,7 +4,7 @@
 
 I have 6+ years of supply chain and logistics operations experience, now leveraging data analysis to solve operational challenges.
 
-- 👯 Let's connect if you're solving operational challenges with data!
+- 👯 Let's connect if you're solving challenges with data!
 - ⚡ Fun fact: Always learning 🚀
 
 ---
