@@ -29,7 +29,7 @@ I have 6+ years of supply chain and logistics operations experience, now leverag
 
 ## 📌 Featured Projects
 
-- 🌍 [**Climate Change Data Analysis**]() – SQL + Power BI dashboards
+- 🌍 [**(https://github.com/TeresiahNjoroge/climate-change-comparison)**]() – Python
 
 ---
 
