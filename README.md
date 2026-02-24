@@ -1,6 +1,6 @@
 # Hi, I'm Teresiah Njoroge
 
-***💡 Operations Data Analyst | SQL | Python | Power BI | Supply Chain Analytics***
+***💡 Data Analyst | SQL | Python | Power BI | Supply Chain Analytics***
 
 I have 6+ years of supply chain and logistics operations experience, now leveraging data analysis to solve operational challenges.
 
