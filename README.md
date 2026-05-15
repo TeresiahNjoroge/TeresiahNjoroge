@@ -2,7 +2,7 @@
 
 **Data Analyst** · SQL · Python · Power BI · PostgreSQL
 
-I spent 6 years in supply chain and logistics operations — managing routes, tracking costs, coordinating fulfilment, and reporting to leadership every week. I got good at spotting when the numbers didn't add up. Now I do that full time with data.
+I spent 6 years in supply chain and logistics operations, managing routes, tracking costs, coordinating fulfilment, and reporting to leadership every week. I got good at spotting when the numbers didn't add up. Now I do that full-time with data.
 
 I'm transitioning into data analytics with a focus on operational and supply chain problems: the kind where bad data leads to bad decisions, and where finding the right question matters as much as writing the right query.
 
