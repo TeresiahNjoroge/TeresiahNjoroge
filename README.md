@@ -1,16 +1,25 @@
 # Hi, I'm Teresiah Njoroge 👋
 
-**Data Analyst** · SQL · Python · Power BI · PostgreSQL
+**Data & Impact Manager | Analytics · Applied AI · Supply Chain** · SQL · Python · Power BI · PostgreSQL
 
-I spent 6 years in supply chain and logistics operations, managing routes, tracking costs, coordinating fulfilment, and reporting to leadership every week. I got good at spotting when the numbers didn't add up. Now I do that full-time with data.
+I lead a data and impact function: I own the database, the dashboards, the metric definitions, and the reporting that goes to leadership and investors. Six years in supply chain and logistics operations taught me to spot when the numbers don't add up, and that instinct is now the core of how I work. My signature is data integrity, figures that hold up when someone with money or a mandate asks where they came from.
 
-I'm transitioning into data analytics with a focus on operational and supply chain problems: the kind where bad data leads to bad decisions, and where finding the right question matters as much as writing the right query.
+I work on operational and supply chain problems where bad data leads to bad decisions, impact measurement that has to survive external scrutiny, and increasingly the point where analytics meets applied AI. Alongside this I consult on carbon-market projects, assessing crediting validity and reviewing MRV against Kenyan regulation.
 
-📍 Nairobi, Kenya &nbsp;|&nbsp; 🎓 DataCamp · ALX Africa · DCA × DataCamp Scholar &nbsp;|&nbsp; ⚡ Electrical Engineering background
+📍 Nairobi, Kenya &nbsp;|&nbsp; 🎓 DataCamp · ALX Africa · DCA × DataCamp Scholar &nbsp;|&nbsp; ⚡ Electrical Engineering background &nbsp;|&nbsp; 🌍 Carbon-market MRV
 
 ---
 
 ## 🗂 Featured Projects
+
+### 🤖 [Supply-Risk Decision-Support Assistant](https://github.com/TeresiahNjoroge/supply-risk-assistant)
+**Python · SQL logic · LLM (Anthropic API)**
+
+An end-to-end decision-support prototype for health-commodity supply chains. It forecasts stockout risk, flags redistribution-before-expiry opportunities across facilities, and writes plain-language briefings for non-technical officers. The design is deliberate: all risk computation runs in exact, testable code, and the language model only turns the finished facts into clear guidance, with an automated guardrail that flags any figure it invents.
+
+`applied AI` `LLM` `decision support` `forecasting` `responsible AI` `hallucination guardrail`
+
+---
 
 ### 🔍 [Coast Expansion Strategic Analysis](https://github.com/TeresiahNjoroge/coast-expansion-analysis)
 **PostgreSQL · DBeaver · SQL**
@@ -30,15 +39,6 @@ Multi-domain weekly health framework across order fulfilment, accounts receivabl
 
 ---
 
-### 🌍 [Climate Change Comparison](https://github.com/TeresiahNjoroge/climate-change-comparison)
-**Python · Pandas · Matplotlib · Jupyter Notebook**
-
-Comparison of temperature trends using FAOSTAT and Environment datasets. Data cleaning, trend analysis, and visualisation across countries and time periods.
-
-`EDA` `time series` `data visualisation`
-
----
-
 ### 👩🏾‍💻 [Africa Gender & Youth Data Project](https://github.com/TeresiahNjoroge/africa-gender-youth-data-project)
 **Python · SQL · Power BI · Jupyter Notebook**
 
@@ -48,11 +48,20 @@ M&E data analysis and reporting tracker for Africa gender & youth indicators. Co
 
 ---
 
+### 🌍 [Climate Change Comparison](https://github.com/TeresiahNjoroge/climate-change-comparison)
+**Python · Pandas · Matplotlib · Jupyter Notebook**
+
+Comparison of temperature trends using FAOSTAT and Environment datasets. Data cleaning, trend analysis, and visualisation across countries and time periods.
+
+`EDA` `time series` `data visualisation`
+
+---
+
 ## 🛠 Tech Stack
 
 | **Query & Analysis** | **Visualisation** | **Python Libraries** |
 |---|---|---|
-| ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) | ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Matplotlib](https://img.shields.io/badge/Matplotlib-005571?style=for-the-badge&logo=plotly&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-319795?style=for-the-badge&logo=python&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37726?style=for-the-badge&logo=jupyter&logoColor=white) |
+| ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) | ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Matplotlib](https://img.shields.io/badge/Matplotlib-005571?style=for-the-badge&logo=plotly&logoColor=white) ![Metabase](https://img.shields.io/badge/Metabase-509EE3?style=for-the-badge&logo=metabase&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37726?style=for-the-badge&logo=jupyter&logoColor=white) |
 
 ---
 
